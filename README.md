@@ -12,6 +12,6 @@ My journey in information systems and passion for numbers has led me to develop 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Data Cleaning                                 | <a href="https://google.com">Excel: Cafe Sales Cleanup</a>|
-| SQL Querying                                  | <a href="https://google.com">BigQuery: Olist Exploratory Analysis</a>|
-| Data Visualiztion                             | <a href="https://google.com">Tableau: Sales Overview Visualization</a>|
+| Data Cleaning                                 | <a href="https://github.com/MyckaellS/Cafe-Sales-Cleanup">Excel: Cafe Sales Cleanup</a>|
+| SQL Querying                                  | <a href="https://github.com/MyckaellS/Olist-Exploratory-Analysis">BigQuery: Olist Exploratory Analysis</a>|
+| Data Visualiztion                             | <a href="https://github.com/MyckaellS/Sales-Overview-Dashboard">Tableau: Sales Overview Dashboard</a>|
