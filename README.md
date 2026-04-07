@@ -1,5 +1,7 @@
 # Hello, I'm Myckaell
-<a href="https://www.linkedin.com/in/myckaell-silva/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://myckaells.github.io/#"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge" /></a>
+<a href="https://github.com/MyckaellS/MyckaellS.github.io/blob/main/Resume.pdf"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge" /></a>
+<a href=""><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge" /></a>
 
 I am a recent graduate with a serious interest in how data transforms and affects real decisions.
 
